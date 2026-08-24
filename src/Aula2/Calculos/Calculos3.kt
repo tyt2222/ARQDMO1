@@ -1,3 +1,5 @@
+package Calculos
+
 import kotlin.random.Random
 
 fun main() {

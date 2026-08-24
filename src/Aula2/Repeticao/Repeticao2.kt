@@ -1,3 +1,5 @@
+package Repeticao
+
 fun main() {
     print("Digite um número N: ")
     val n = readln().toIntOrNull() ?: 0

@@ -1,3 +1,5 @@
+package Condicionais
+
 fun main() {
     print("Informe o número: ");
 

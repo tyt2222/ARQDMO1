@@ -1,3 +1,5 @@
+package Repeticao
+
 fun main() {
     print("Quantos números deseja somar? ")
     val n = readln().toIntOrNull() ?: 0

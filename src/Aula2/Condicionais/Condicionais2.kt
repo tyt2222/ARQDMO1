@@ -1,3 +1,5 @@
+package Condicionais
+
 fun main() {
     val numeros = IntArray(3);
 

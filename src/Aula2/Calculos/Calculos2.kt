@@ -1,3 +1,5 @@
+package Calculos
+
 fun main() {
     print("Digite uma palavra: ")
     val palavra = readln()

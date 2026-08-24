@@ -100,9 +100,9 @@ fun main() {
     
     val pedido = Pedido(cliente, cupom)
     
-    pedido.adicionarItem(LivroFisico("Kotlin in Action", 150.0, 1.0))
+    pedido.adicionarItem(LivroFisico("Fundamentos java", 150.0, 1.0))
     pedido.adicionarItem(Console("Nintendo Switch", 2500.0, 1.5))
-    pedido.adicionarItem(FilmeDigital("Inception", 25.0))
+    pedido.adicionarItem(FilmeDigital("Titanic", 25.0))
     pedido.adicionarItem(JogoDigital("Stardew Valley", 30.0))
     
     pedido.fecharPedido()

@@ -1,3 +1,5 @@
+package Repeticao
+
 import kotlin.random.Random
 
 fun main() {
