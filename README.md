@@ -8,10 +8,6 @@ Projetos desenvolvidos na aula de *Dispositivos Móveis*
 
 ## Tecnologias Utilizadas
 - Kotlin + Android Studio
-- ViewBinding
-- ListView e Intents
-- Temas
-- Internacionalização
 
 ## Sobre Mim
 Me chamo **Fábio Henrique**, sou aluno do curso de *Tecnologia em Análise e Desenvolvimento de Sistemas* e atualmente estou cursando o quarto semestre.
