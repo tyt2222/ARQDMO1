@@ -1,3 +1,5 @@
+package Aula4
+
 fun main() {
     //CRIANDO UMA PESSOA
     val p1 = Pessoa("123456789","Theobaldo","theo@gmail.com")

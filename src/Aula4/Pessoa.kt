@@ -1,3 +1,5 @@
+package Aula4
+
 open class Pessoa {
     //Propriedades de uma pessoa
     var cpf: String = ""
